@@ -6,5 +6,4 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-Thank for cloud9, a free online IDE
-this website live on: https://web-ban-hang-em-dong-hoanganh25991.c9users.io
+Thank for cloud9, a free online IDE. The web-ban-hang-em-dong live on: https://web-ban-hang-em-dong-hoanganh25991.c9users.io
