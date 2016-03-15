@@ -153,14 +153,14 @@ global $post;
 	       	<?php echo do_shortcode( $other_slider ) ?>
         </div>
       	<?php elseif ($show_slider) : ?>
-        <?php icraft_ibanner_slider(); ?>
+        <?php //icraft_ibanner_slider(); ?>
 		<?php	
 		elseif ( is_home() || (in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) && is_shop() && is_front_page()) ) : 
 		?>
             <?php if (!empty($other_front_slider)) : ?>
             <?php echo do_shortcode( $other_front_slider ) ?>
         	<?php elseif (!$hide_front_slider) : ?>
-            <?php icraft_ibanner_slider(); ?>
+            <?php //icraft_ibanner_slider(); ?>
         	<?php else : ?>
                 <div class="iheader" style="">
                     <div class="titlebar">
